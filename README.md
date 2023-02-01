@@ -1,0 +1,1 @@
+THis is a Voting smart contract that allows voters to vote with minimum ENB when voting.
